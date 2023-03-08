@@ -3,11 +3,11 @@
 ## Table of Contents
 - [Introduction](#introduction)
 - [Courses](#courses)
-- [Extra-curricular-activities](#extra-curricular-activities)
+- [Extra-curricular activities](#extra-curricular-activities)
 
 ## Introduction
 
-Throughout our university careers we are faced with quite a few decisions that we have to make without exactly knowing what we are getting into. Throughout this process we, a group from the [Technology Leadership Initiative](https://www.technologyleadershipinitiative.com/), have been able to rely on guidance and various mentors along the way. This document is our attempt to somewhat return the favour to the community with some of our experiences and expertise navigating the maze of possibilities within UofT for Computer Science students. 
+Throughout our university careers, we are faced with quite a few decisions that we have to make without exactly knowing what we are getting into. Throughout this process we, a group from the [Technology Leadership Initiative](https://www.technologyleadershipinitiative.com/), have been able to rely on guidance and various mentors along the way. This document is our attempt to return the favour to the community with some of our experiences and expertise navigating the maze of possibilities within UofT for Computer Science students. 
 
 ## Collaboration
 
@@ -31,10 +31,10 @@ Course selection can be a quite daunting task. It is often hard to get a real se
 ### Hidden Gems
 Some of these may be useful and interesting!
 
-- **Minors:** A lot of students like to explore their interests with a Minor in a different area. CS overlaps quite a bit with a some Math and Stats requirements. Therefore, it is no surprise that most students end up doing a minor in Stats or Math.
+- **Minors:** A lot of students like to explore their interests with a Minor in a different area. CS overlaps quite a bit with some Math and Stats requirements. Therefore, it is no surprise that most students end up doing a Minor in Stats or Math.
 - **CS Courses**:
-  - [CSC458: Computer Networking Systems](https://artsci.calendar.utoronto.ca/course/csc458h1): the general consensus of the people who took this course is that it is a must for any CS student and they wish they took it earlier on.
-- **Engineering Courses**: As a CS/FAS student you may also take some Engineering courses (check with your registrar for any registrictions that might impose). You may also have engineering courses count towards your CS degree, just make sure you notify/ask [Computer Science Undergrad](mailto:cs.undergrad@utoronto.ca). Refer to the [Engineering Calendar](https://undergrad.engineering.utoronto.ca/academics-registration/academic-calendar/) for a list of all possible courses. A few notable courses:
+  - [CSC458: Computer Networking Systems](https://artsci.calendar.utoronto.ca/course/csc458h1): The general consensus of the people who took this course is that it is a must for any CS student and they wish they took it earlier.
+- **Engineering Courses**: As a CS/FAS student, you may also take some Engineering courses (check with your registrar for any restrictions). You may also have engineering courses count towards your CS degree, just make sure you notify/ask [Computer Science Undergrad](mailto:cs.undergrad@utoronto.ca). Refer to the [Engineering Calendar](https://undergrad.engineering.utoronto.ca/academics-registration/academic-calendar/) for a list of all possible courses. A few notable courses:
   - ECE568: Cyber Security
   - ECE419: Distributed Systems
   - ECE344: Operating Systems
