@@ -35,8 +35,10 @@ Some of these may be useful and interesting!
 - **CS Courses**:
   - [CSC458: Computer Networking Systems](https://artsci.calendar.utoronto.ca/course/csc458h1): The general consensus of the people who took this course is that it is a must for any CS student and they wish they took it earlier.
 - **Engineering Courses**: As a CS/FAS student, you may also take some Engineering courses (check with your registrar for any restrictions). You may also have engineering courses count towards your CS degree, just make sure you notify/ask [Computer Science Undergrad](mailto:cs.undergrad@utoronto.ca). Refer to the [Engineering Calendar](https://undergrad.engineering.utoronto.ca/academics-registration/academic-calendar/) for a list of all possible courses. A few notable courses:
-  - ECE568: Cyber Security
+  - ECE568: Cyber Security - a great introduction to the classic and modern attacks and defenses as well as the theory and application of modern encryption methods. You will also learn about SSL, public and private keys, OAuth2, DDoS, cookies, domains, etc through practical labs.
   - ECE419: Distributed Systems
   - ECE344: Operating Systems
 
 ## Extra-curricular Activities
+
+There is a huge variety of clubs at UofT CS and a lot of people find deciding which ones to join difficult. Here, you will find a list of all the major CS clubs offered at UofT, separated by field of interest, with each club linking a repository with detailed information such as their website, what they do, how to join, current projects, resources, and why you should join!
