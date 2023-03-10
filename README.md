@@ -48,11 +48,11 @@ There is a huge variety of clubs at UofT CS and a lot of people find deciding wh
 - [University of Toronto App Development Association (UTADA)](https://sop.utoronto.ca/group/application-development-association/)
 - [University of Toronto Web Development (UTWD)](https://github.com/uoftweb)
 
-## Computer Graphics
+### Computer Graphics
 - [University of Toronto Computer Graphics (UTCG)](https://github.com/UTCG)
 
 
-## Neuroscience and Brain-Computer Interaction
+### Neuroscience and Brain-Computer Interaction
 - [NeuroTechUofT](https://github.com/neurotechuoft)
 
 
@@ -75,5 +75,5 @@ There is a huge variety of clubs at UofT CS and a lot of people find deciding wh
 - [Game Design and Development Club (GDDC)](http://www.utgddc.com/)
 
 
-# Quantum Computing
+### Quantum Computing
 - [UofT Quantum Computing Club (UTQCC)](https://www.uoftquantum.ca/)
