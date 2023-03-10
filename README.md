@@ -42,3 +42,38 @@ Some of these may be useful and interesting!
 ## Extra-curricular Activities
 
 There is a huge variety of clubs at UofT CS and a lot of people find deciding which ones to join difficult. Here, you will find a list of all the major CS clubs offered at UofT, separated by field of interest, with each club linking a repository with detailed information such as their website, what they do, how to join, current projects, resources, and why you should join!
+
+### Software Development
+- [Google Developer Student Club (GDSC)](https://gdsc.community.dev/university-of-toronto-st-george-campus/)
+- [University of Toronto App Development Association (UTADA)](https://sop.utoronto.ca/group/application-development-association/)
+- [University of Toronto Web Development (UTWD)](https://github.com/uoftweb)
+
+## Computer Graphics
+- [University of Toronto Computer Graphics (UTCG)](https://github.com/UTCG)
+
+
+## Neuroscience and Brain-Computer Interaction
+- [NeuroTechUofT](https://github.com/neurotechuoft)
+
+
+
+### Machine Learning / Artificial Intelligence
+- [UofTAI](https://www.uoft.ai/)
+- [University of Toronto Machine Intelligence Student Team (UTMIST)](https://github.com/UTMIST)
+- [aUToronto](https://www.autodrive.utoronto.ca/)
+
+
+### Cybersecurity
+- [UofTCTF](https://github.com/UofTCTF)
+
+
+### Social Good
+- [UofT Blueprint](https://github.com/uoftblueprint)
+
+
+### Game Development
+- [Game Design and Development Club (GDDC)](http://www.utgddc.com/)
+
+
+# Quantum Computing
+- [UofT Quantum Computing Club (UTQCC)](https://www.uoftquantum.ca/)
