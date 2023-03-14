@@ -60,11 +60,11 @@ There is a huge variety of clubs at UofT CS and a lot of people find deciding wh
 ### Machine Learning / Artificial Intelligence
 - [UofTAI](https://www.uoft.ai/)
 - [University of Toronto Machine Intelligence Student Team (UTMIST)](https://github.com/UTMIST)
-- [aUToronto](https://www.autodrive.utoronto.ca/)
+- [aUToronto: The University of Toronto Self-Driving Car Team](https://www.autodrive.utoronto.ca/)
 
 
 ### Cybersecurity
-- [UofTCTF](https://github.com/UofTCTF)
+- [UofTCTF: The University of Toronto's Capture the Flag Team](https://github.com/UofTCTF)
 
 
 ### Social Good
