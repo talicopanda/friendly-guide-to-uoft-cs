@@ -29,7 +29,7 @@ Course selection can be a quite daunting task. It is often hard to get a real se
 - [Reddit](https://www.reddit.com/): Reddit is a surprisingly useful to get the opinion of people that already took a certain course and know what it was like. For that reason, I would take everything with a grain of salt as and you have to see whose opinions you really trust as their mileages may vary. I often find it useful to search for `<course code> uoft reddit` on Google as that usually returns the top posts where people discuss the course.
 
 ### Hidden Gems
-Some of these may be useful and interesting!
+Some of these may be useful and interesting:
 
 - **Minors:** A lot of students like to explore their interests with a Minor in a different area. CS overlaps quite a bit with some Math and Stats requirements. Therefore, it is no surprise that most students end up doing a Minor in Stats or Math.
 - **CS Courses**:
