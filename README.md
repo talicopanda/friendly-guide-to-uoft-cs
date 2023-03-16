@@ -13,7 +13,7 @@ Throughout our university careers, we are faced with quite a few decisions that 
 
 The aim is to have this document updated as new opportunities or experiences arise. Therefore, if you'd like to be a part and feel like you could contribute to anything that is being said here, please:
 
-TODO: details on open source
+First, fork the repository and make any changes you believe help contribute to this knowledge bank. Then, press **sync fork** on your repository and open a pull request to the main repository. Admins of the main repository will review and merge your pull request. 
 
 ## Courses
 
