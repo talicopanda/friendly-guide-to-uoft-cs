@@ -75,6 +75,8 @@ Note that the great majority of these clubs are fully student-run and there are 
 ### Quantum Computing
 - [UofT Quantum Computing Club (UTQCC)](https://www.uoftquantum.ca/)
 
+### Robotics and Engineering
+
 ## Hackathons
 
 Hackathons are a great opportunity to 1) Netowork with companies and peers, 2) build a project for your resume and sharpen your technical skills, and 3) have some fun (hopefully). If you do well, there are often prizes that can include from cash winnings to company interviews.
