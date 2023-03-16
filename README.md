@@ -74,3 +74,5 @@ Note that the great majority of these clubs are fully student-run and there are 
 
 ### Quantum Computing
 - [UofT Quantum Computing Club (UTQCC)](https://www.uoftquantum.ca/)
+
+### Robotics and Engineering
