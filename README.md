@@ -13,7 +13,7 @@ Throughout our university careers, we are faced with quite a few decisions that 
 
 The aim is to have this document updated as new opportunities or experiences arise. Therefore, if you'd like to be a part and feel like you could contribute to anything that is being said here, please:
 
-First, fork the repository and make any changes you believe help contribute to this knowledge bank. Then, press **sync fork** on your repository and open a pull request to the main repository. Admins of the main repository will review and merge your pull request. 
+First, fork the repository and make any changes you believe help contribute to this knowledge bank. Then, press **contribute** on your repository and open a pull request to the original repository. Admins of the original repository will review and merge your pull request. 
 
 ## Courses
 
@@ -39,7 +39,7 @@ Some of these may be useful and interesting:
   - ECE419: Distributed Systems
   - ECE344: Operating Systems
 
-## Extra-curricular Activities
+## Extra-curricular Clubs
 
 Extra-curriculars can go a long way towards giving you something similar to work experience, leadership skills and abilities to work with people in a group. It is seen very highly by most companies since it shows that the student is engaged and proactive in their field or community.
 
@@ -74,3 +74,17 @@ Note that the great majority of these clubs are fully student-run and there are 
 
 ### Quantum Computing
 - [UofT Quantum Computing Club (UTQCC)](https://www.uoftquantum.ca/)
+
+## Hackathons
+
+Hackathons are a great opportunity to 1) Netowork with companies and peers, 2) build a project for your resume and sharpen your technical skills, and 3) have some fun (hopefully). If you do well, there are often prizes that can include from cash winnings to company interviews.
+
+### Where to Find
+- [MLH (Major League Hacking)](https://mlh.io/). MLH runs hackathons throughout the year, many of which require no prior experience. A notable MLH event is *Hack the North*, which is both run at UofT and is also the largest hackathon in Canada.
+- [Devpost](https://devpost.com/hackathons). Devpost is a platform solely for finding hackathons, both virtual and in person. 
+- Company-Specific. Numerous companies host hackathons to attract talent. If you are interested in working somewhere, be to sure to check if they either host or sponser a hackathon, as performing well in said event can help land interviews.
+
+### Tips
+1) Network: while building a good project is great, connecting with the companies, mentors, and other students is just as important. Be sure to allocate time for talking with representatives, and be prepared to show off yourself and your skill set.
+2) Don't be scared: no one else knows what they are doing either. Be confident and willing to learn.
+3) Try to go with friends: the hackathon experience can be much more fun if you go with a group of people you are comfortable with. That being said, its perfectly fine to go by yourself and meet new people there.
