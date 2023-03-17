@@ -61,33 +61,47 @@ Note that the great majority of these clubs are fully student-run and there are 
 The CSSU represents Computer Science students who are either taking a Computer Science course or are part of a Computer Science Program of Study at the University of Toronto St. George campus. The primary goal for the CSSU team is to improve the academic, social, and professional lives of computer science students. 
 
 ### Software Development
-- [Google Developer Student Club (GDSC)](https://gdsc.community.dev/university-of-toronto-st-george-campus/)
-- [University of Toronto App Development Association (UTADA)](https://sop.utoronto.ca/group/application-development-association/)
-- [University of Toronto Web Development (UTWD)](https://github.com/uoftweb)
+- [Google Developer Student Club (GDSC)](https://gdsc.community.dev/university-of-toronto-st-george-campus/) \
+The Google Developer Student Club (GDSC) - University of Toronto powered by Google Developers is a student-led group that aims to inspire students in the field of technology. Its community is open to any student in any discipline wishing to advance their skills in developer technology and no prior developer experience is required to be a part.
+- [University of Toronto App Development Association (UTADA)](https://sop.utoronto.ca/group/application-development-association/) \
+ADA is an organization dedicated to enriching the programmer community of UofT. They are obsessed with the new types of information technologies. The main focus of the organization is to help young programmers to implement their awesome ideas into real products. Meanwhile, they provide them with opportunities for learning new developing skills by holding up workshops.
+- [University of Toronto Web Development (UTWD)](https://www.uoftweb.dev/)
 
 ### Computer Graphics
-- [University of Toronto Computer Graphics (UTCG)](https://github.com/UTCG)
+- [University of Toronto Computer Graphics (UTCG)](https://utcg.club/) \
+The University of Toronto Computer Graphics Club has a mission to create a supportive learning community that provides graphics-related workshops, research talks, field trips and social events for people who are interested in any part of computer graphics.
 
 ### Neuroscience and Brain-Computer Interaction
-- [NeuroTechUofT](https://github.com/neurotechuoft)
+- [NeuroTechUofT](https://neurotechuoft.com/) \
+Driving undergraduate neurotechnology and BCI research and innovation in the University of Toronto
 
 ### Machine Learning / Artificial Intelligence
-- [UofTAI](https://www.uoft.ai/)
-- [University of Toronto Machine Intelligence Student Team (UTMIST)](https://github.com/UTMIST)
-- [aUToronto: The University of Toronto Self-Driving Car Team](https://www.autodrive.utoronto.ca/)
+- [UofTAI](https://www.uoft.ai/) \
+Through a variety of initiatives, including educational programs, competitions, guest lectures, and conferences, we help UofT students get involved in the growing field of Artificial Intelligence. Our club’s activities introduce our members to an assortment of topics within the field, familiarise them with cutting-edge research, and connect them with a range of career opportunities available in today’s workforce.
+
+- [University of Toronto Machine Intelligence Student Team (UTMIST)](https://utmist.gitlab.io/) \
+The University of Toronto Machine Intelligence Student Team (UTMIST) is a student organization devoted to promoting a vibrant machine learning community on campus and connecting students with graduate students, professors and industries in the field of machine intelligence, to clear the MIST around machine intelligence for the eager young minds.
+- [aUToronto: The University of Toronto Self-Driving Car Team](https://www.autodrive.utoronto.ca/) \
+Autonomous vehicles are on the cusp of revolutionizing the way our world travels. aUToronto is at the forefront of this new wave as the University of Toronto’s self-driving car team.
 
 ### Cybersecurity
-- [UofTCTF: The University of Toronto's Capture the Flag Team](https://github.com/UofTCTF)
+- [UofTCTF: The University of Toronto's Capture the Flag Team](https://github.com/UofTCTF) \
+The University of Toronto's Capture the Flag team (UofTCTF) is a group of students who are interested in information security and computer security.
 
 ### Social Good
-- [UofT Blueprint](https://github.com/uoftblueprint)
-- [Engineers Without Borders](https://www.uoft.ewb.ca/)
+- [UofT Blueprint](https://github.com/uoftblueprint) \
+Stationed at the University of Toronto, Blueprint is a group of dedicated students passionate about building software for social good completely pro-bono.
+
+- [Engineers Without Borders](https://www.uoft.ewb.ca/) \
+EWB is a tight-knit community looking for leaders who ask tough questions, strive for continuous growth and share a common interest in social change.
 
 ### Game Development
-- [Game Design and Development Club (GDDC)](http://www.utgddc.com/)
+- [Game Design and Development Club (GDDC)](http://www.utgddc.com/) \
+The Game Design and Development Club is dedicated to helping students interested in anything related to game design and development such as: programming, sound, music, business, and art.
 
 ### Quantum Computing
-- [UofT Quantum Computing Club (UTQCC)](https://www.uoftquantum.ca/)
+- [UofT Quantum Computing Club (UTQCC)](https://www.uoftquantum.ca/) \
+The University of Toronto Quantum Computing Group serves to bring together the UofT Quantum Computing community, as well as to introduce Quantum Computing to all those who are interested. As a rich resource hub and a professional development group, we provide seminars, talks, and crash courses, making cutting edge-research in academia accessible to the undergraduate community.
 
 ### Robotics 
 - [UofT Robotics Association (UTRA)](https://www.utra.ca) \
