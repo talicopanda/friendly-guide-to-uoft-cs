@@ -157,3 +157,20 @@ Numerous companies host hackathons to attract talent. If you are interested in w
 1) **Network**: While building a project is great, connecting with the companies, mentors, and other students is just as important. Be sure to allocate time for talking with representatives, and be prepared to show off yourself and your skill set. Attend as many networking events, hackathons and workshops to meet a wide variety of people from a wide variety of commpanies, tech and non-tech alike.
 2) **Don't be scared**: No one else knows what they are doing either. Be confident, willing to learn, and always ask and listen to feedback.
 3) **Go with friends**: The hackathon experience can be much more fun if you go with a group of people you are comfortable with. That being said, it's perfectly fine to go by yourself and meet new people there.
+
+## Research 
+The Department of Computer Science offers a variety of [research opportunities](https://web.cs.toronto.edu/undergraduate/mentorship-research-work). 
+- CSC494/495 \
+Please see the description in the above section. 
+- Preparation for Research through Immersion, Skills, and Mentorship (PRISM) \
+This program is dedicated to 2nd year students. It helps students develop research skills, interact with grad student mentors and be immersed in parts of the research process. 
+- Research Opportunity Program (ROP) \
+Students entering their 2nd year and above can apply to ROP. This one-year course counts as 1 FCE. Students join a professor's research project. Applications are open in February for Summer projects and March for Fall/Winter projects. 
+- Undergrad Summer Research Program \
+Students in 2nd year and above can apply to this program. Students join a professor's research project over the summer. A list of open positions are available in the application form. Applications are open in December/early January for the following summer. 
+
+### Tips
+- Other than the opportunities listed above, students can always connect with a faculty member through other means, such as through courses, events and seminars organized by different student clubs. 
+- During 1st and 2nd year undergrad, there is a high chance that students haven't determined their specific research areas. They might only know the big directions. We know a great number of students whose research directions in their last year are very different than those in their first year. 
+- Undergraduates are likely to be working with Master's or Ph.D. students when they join a research group. It is important to understand the research project holistically because one might be working on only one portion of the research project. This type of collaboration really helps undergraduates develop research skills since they might not have independent research skills yet. 
+- Being up-to-date with the state-of-the-art is essential. This can be achieved through subscribing to conference alerts and newsletters from core organizations like IEEE International. Browsing conference papers is also highly recommended. 
