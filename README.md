@@ -31,7 +31,8 @@ Course selection can be a quite daunting task. It is often hard to get a real se
 ### Hidden Gems
 Some of these may be useful and interesting:
 
-- **Minors:** A lot of students like to explore their interests with a Minor in a different area. CS overlaps quite a bit with some Math and Stats requirements. Therefore, it is no surprise that most students end up doing a Minor in Stats or Math.
+- **Minors**: A lot of students like to explore their interests with a Minor in a different area. CS overlaps quite a bit with some Math and Stats requirements. Therefore, it is no surprise that most students end up doing a Minor in Stats or Math. Other commonly paired Minors include Cognitive Science, Economics, and Biology.
+- **Focuses**: Within the Computer Science Major/Specialist, you can choose to pursue a spwcific field of interest. Focuses are tracks that outline recommended courses to take for fields such as Artificial Intelligence, Computer Vision, Game Design, and System Design.
 - **CS Courses**:
   - [CSC458: Computer Networking Systems](https://artsci.calendar.utoronto.ca/course/csc458h1): The general consensus of the people who took this course is that it is a must for any CS student and they wish they took it earlier.
 - **Engineering Courses**: As a CS/FAS student, you may also take some Engineering courses (check with your registrar for any restrictions). You may also have engineering courses count towards your CS degree, just make sure you notify/ask [Computer Science Undergrad](mailto:cs.undergrad@utoronto.ca). Refer to the [Engineering Calendar](https://undergrad.engineering.utoronto.ca/academics-registration/academic-calendar/) for a list of all possible courses. Here are a few notable courses for CS (check the engineering calendar for an accurate description):
@@ -87,6 +88,6 @@ Hackathons are a great opportunity to 1) Netowork with companies and peers, 2) b
 - Company-Specific. Numerous companies host hackathons to attract talent. If you are interested in working somewhere, be to sure to check if they either host or sponser a hackathon, as performing well in said event can help land interviews.
 
 ### Tips
-1) Network: while building a good project is great, connecting with the companies, mentors, and other students is just as important. Be sure to allocate time for talking with representatives, and be prepared to show off yourself and your skill set.
-2) Don't be scared: no one else knows what they are doing either. Be confident and willing to learn.
-3) Try to go with friends: the hackathon experience can be much more fun if you go with a group of people you are comfortable with. That being said, its perfectly fine to go by yourself and meet new people there.
+1) Network: while building a project is great, connecting with the companies, mentors, and other students is just as important. Be sure to allocate time for talking with representatives, and be prepared to show off yourself and your skill set. Attend as many networking events, hackathons and workshops to meet a wide variety of people from a wide variety of commpanies, tech and non-tech alike.
+2) Don't be scared: no one else knows what they are doing either. Be confident, willing to learn, and always ask and listen to feedback.
+3) Try to go with friends: the hackathon experience can be much more fun if you go with a group of people you are comfortable with. That being said, it's perfectly fine to go by yourself and meet new people there.
