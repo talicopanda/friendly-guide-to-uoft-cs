@@ -137,7 +137,9 @@ EPAI is committed to educating and taking action on ethical concerns within arti
 - [UofT Biomedical Engineering Design Team (UT BIOME)](https://www.instagram.com/uoftbiome/?hl=en) 
 
 ### Tips for navigating extra-curriculars
-Will be completed by Jenny. Also welcome anyone to add in. 
+- It is challenging to balance diversity and commitment. As a first-year, our advice is to participate in a variety of clubs, communicate with upper-year students and faculty members and learn how the extracurricular activities help you to explore your areas of interest. Later in third or fourth-year, you would be able to concentrate on fewer clubs while dedicating more time to them. 
+- Long-term commitment will be rewarding in the end. Often, as you spend more time in a club, you will discover surprising opportunities and also develop close connections with other peers in the club. A club or student society is a self-contained community where students don't only talk about club-related matters, but also grow together in all aspects. 
+- Some clubs are more industry-focused, while others are more research-oriented. It is worth communicating with upper-year students and faculty members to find out. 
 
 ## Hackathons
 
