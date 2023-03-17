@@ -5,6 +5,7 @@
 - [Courses](#courses)
 - [Extra-curriculars](#extra-curriculars)
 - [Hackathons](#hackathons)
+- [Research](#research)
 
 ## Introduction
 
