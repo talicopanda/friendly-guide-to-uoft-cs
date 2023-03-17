@@ -142,11 +142,14 @@ Will be completed by Jenny. Also welcome anyone to add in.
 Hackathons are a great opportunity to 1) Network with companies and peers, 2) build a project for your resume and sharpen your technical skills, and 3) have some fun (hopefully). If you do well, you have the chance to win prizes, ranging from cash winnings to company interviews.
 
 ### Where to Find
-- [MLH (Major League Hacking)](https://mlh.io/). MLH runs hackathons throughout the year, many of which require no prior experience. A notable MLH event is *Hack the North*, which is both run at UofT and is also the largest hackathon in Canada.
-- [Devpost](https://devpost.com/hackathons). Devpost is a platform solely for finding hackathons, both virtual and in person. 
-- Company-Specific. Numerous companies host hackathons to attract talent. If you are interested in working somewhere, be to sure to check if they either host or sponser a hackathon, as performing well in said event can help land interviews.
+- [MLH (Major League Hacking)](https://mlh.io/) \
+MLH runs hackathons throughout the year, many of which require no prior experience. A notable MLH event is *Hack the North*, which is both run at UofT and is also the largest hackathon in Canada.
+- [Devpost](https://devpost.com/hackathons) \
+Devpost is a platform solely for finding hackathons, both virtual and in person. 
+- Company-Specific \
+Numerous companies host hackathons to attract talent. If you are interested in working somewhere, be to sure to check if they either host or sponser a hackathon, as performing well in said event can help land interviews.
 
 ### Tips
-1) Network: while building a project is great, connecting with the companies, mentors, and other students is just as important. Be sure to allocate time for talking with representatives, and be prepared to show off yourself and your skill set. Attend as many networking events, hackathons and workshops to meet a wide variety of people from a wide variety of commpanies, tech and non-tech alike.
-2) Don't be scared: no one else knows what they are doing either. Be confident, willing to learn, and always ask and listen to feedback.
-3) Try to go with friends: the hackathon experience can be much more fun if you go with a group of people you are comfortable with. That being said, it's perfectly fine to go by yourself and meet new people there.
+1) **Network:** while building a project is great, connecting with the companies, mentors, and other students is just as important. Be sure to allocate time for talking with representatives, and be prepared to show off yourself and your skill set. Attend as many networking events, hackathons and workshops to meet a wide variety of people from a wide variety of commpanies, tech and non-tech alike.
+2) **Don't be scared:** no one else knows what they are doing either. Be confident, willing to learn, and always ask and listen to feedback.
+3) **Go with friends:** the hackathon experience can be much more fun if you go with a group of people you are comfortable with. That being said, it's perfectly fine to go by yourself and meet new people there.
