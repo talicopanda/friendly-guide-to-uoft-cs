@@ -84,7 +84,7 @@ The University of Toronto's Capture the Flag team (UofTCTF) is a group of studen
 
 ### Social Good
 - [UofT Blueprint](https://github.com/uoftblueprint) \
-Stationed at the University of Toronto, we are a group of dedicated students passionate about building software for social good completely pro-bono
+Stationed at the University of Toronto, we are a group of dedicated students passionate about building software for social good completely pro-bono.
 - [Engineers Without Borders](https://www.uoft.ewb.ca/) \
 UofT EWB is a tight-knit community looking for leaders who ask tough questions, strive for continuous growth and share a common interest in social change.
 
