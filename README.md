@@ -36,10 +36,12 @@ Some of these may be useful and interesting:
 - **CS Courses**:
   - [CSC458: Computer Networking Systems](https://artsci.calendar.utoronto.ca/course/csc458h1): The general consensus of the people who took this course is that it is a must for any CS student and they wish they took it earlier.
   - [CSC301: Introduction to Software Engineering](https://artsci.calendar.utoronto.ca/course/csc301h1): You get to experience what it's like to build an end-to-end product for a real client, on top of learning how to manage a team, manage the scope of the project, communicate with a possibly non-technical client, and manage expecations and deadlines. A must-take for anyone going into software development.
+  - [CSC494: Computer Science Project](https://artsci.calendar.utoronto.ca/course/csc494h1): This course involves working closely with a professor to do self-directed research. You get to pick a project out of a list of projects that professors are interested in, and each lecture involves reporting your findings to your professor. Topics can range from educational embedded systems projects to social network user engagement analysis.
 - **Engineering Courses**: As a CS/FAS student, you may also take some Engineering courses (check with your registrar for any restrictions). You may also have engineering courses count towards your CS degree, just make sure you notify/ask [Computer Science Undergrad](mailto:cs.undergrad@utoronto.ca). Refer to the [Engineering Calendar](https://undergrad.engineering.utoronto.ca/academics-registration/academic-calendar/) for a list of all possible courses. Here are a few notable courses for CS (check the engineering calendar for an accurate description):
   - ECE568: Cyber Security
   - ECE419: Distributed Systems
   - ECE344: Operating Systems
+  - APS360: Artificial Intelligence Fundamentals
 
 ## Extra-curricular Clubs
 
@@ -75,7 +77,8 @@ The CSSU represents Computer Science students who are either taking a Computer S
 
 ### Social Good
 - [UofT Blueprint](https://github.com/uoftblueprint)
- 
+- [Engineers Without Borders](https://www.uoft.ewb.ca/)
+
 ### Game Development
 - [Game Design and Development Club (GDDC)](http://www.utgddc.com/)
 
