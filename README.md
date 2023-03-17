@@ -81,7 +81,7 @@ Note that the great majority of these clubs are fully student-run and there are 
 
 ## Hackathons
 
-Hackathons are a great opportunity to 1) Netowork with companies and peers, 2) build a project for your resume and sharpen your technical skills, and 3) have some fun (hopefully). If you do well, there are often prizes that can include from cash winnings to company interviews.
+Hackathons are a great opportunity to 1) Network with companies and peers, 2) build a project for your resume and sharpen your technical skills, and 3) have some fun (hopefully). If you do well, you have the chance to win prizes, ranging from cash winnings to company interviews.
 
 ### Where to Find
 - [MLH (Major League Hacking)](https://mlh.io/). MLH runs hackathons throughout the year, many of which require no prior experience. A notable MLH event is *Hack the North*, which is both run at UofT and is also the largest hackathon in Canada.
