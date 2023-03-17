@@ -36,7 +36,9 @@ Some of these may be useful and interesting:
 - **Focuses**: Within the Computer Science Major/Specialist, you can choose to pursue a spwcific field of interest. Focuses are tracks that outline recommended courses to take for fields such as Artificial Intelligence, Computer Vision, Game Design, and System Design. You can find more information about focuses on [UofT's Official Computer Science page](https://artsci.calendar.utoronto.ca/section/Computer-Science).
 - **CS Courses**:
   - [CSC458: Computer Networking Systems](https://artsci.calendar.utoronto.ca/course/csc458h1): The general consensus of the people who took this course is that it is a must for any CS student and they wish they took it earlier.
-  - [CSC301: Introduction to Software Engineering](https://artsci.calendar.utoronto.ca/course/csc301h1): You get to experience what it's like to build an end-to-end product for a real client, on top of learning how to manage a team, manage the scope of the project, communicate with a possibly non-technical client, and manage expecations and deadlines. A must-take for anyone going into software development that hasn't yet had any internship experience. If you have internships under your belt, you may not get as much out of this course.
+  - [CSC301: Introduction to Software Engineering](https://artsci.calendar.utoronto.ca/course/csc301h1): You get to experience what it's like to build an end-to-end product for a real client, on top of learning how to manage a team, manage the scope of the project, communicate with a possibly non-technical client, and manage expecations and deadlines. A must-take for anyone going into software development.
+  - [CSC454: The Business of Software](https://artsci.calendar.utoronto.ca/course/csc301h1): You get the opportunity to learn the ins and outs of starting a new software business. Form a group of 6 students, some of whom are also enrolled in CSC491 (the development sister course) and experience what it's like to create a start up from ideation to implementation. You get to learn and experience how to perform market analyses, create customer personas and profiles and create financial modeling and projections. Learn more [here](https://dcsil.ca/csc454).
+  - [CSC324: Principles of Programming Languages](https://artsci.calendar.utoronto.ca/course/csc301h1): This is a fun course to take to learn more about functional programming. It introduces you to a new way of programming and you get to play around with some interesting languages that you may not otherwise be exposed to.
   - [CSC384: Introduction to Artificial Intelligence](https://artsci.calendar.utoronto.ca/course/csc384h1): This course gives a good introduction to most prominent topics in Artificial Intelligence. It is a great way to dip your toes and check your interest in the field of AI.
   - [CSC494: Computer Science Project](https://artsci.calendar.utoronto.ca/course/csc494h1): This course involves working closely with a professor to do self-directed research. You get to pick a project out of a list of projects that professors are interested in, and each lecture involves reporting your findings to your professor. Topics can range from educational embedded systems projects to social network user engagement analysis.
   - [CSC303: Social and Information Networks](https://artsci.calendar.utoronto.ca/course/csc303h1): This course is just overall really fun. It touches a lot of interesting topics that are very applicable to real world applications.
@@ -48,7 +50,6 @@ Some of these may be useful and interesting:
   - ECE568: Cyber Security
   - ECE419: Distributed Systems
   - ECE344: Operating Systems
-  - APS360: Artificial Intelligence Fundamentals
 
 ## Extra-curriculars
 
@@ -93,7 +94,6 @@ The University of Toronto's Capture the Flag team (UofTCTF) is a group of studen
 ### Social Good
 - [UofT Blueprint](https://github.com/uoftblueprint) \
 Stationed at the University of Toronto, Blueprint is a group of dedicated students passionate about building software for social good completely pro-bono.
-
 - [Engineers Without Borders](https://www.uoft.ewb.ca/) \
 EWB is a tight-knit community looking for leaders who ask tough questions, strive for continuous growth and share a common interest in social change.
 
@@ -152,6 +152,6 @@ Devpost is a platform solely for finding hackathons, both virtual and in person.
 Numerous companies host hackathons to attract talent. If you are interested in working somewhere, be to sure to check if they either host or sponser a hackathon, as performing well in said event can help land interviews.
 
 ### Tips
-1) **Network:** while building a project is great, connecting with the companies, mentors, and other students is just as important. Be sure to allocate time for talking with representatives, and be prepared to show off yourself and your skill set. Attend as many networking events, hackathons and workshops to meet a wide variety of people from a wide variety of commpanies, tech and non-tech alike.
-2) **Don't be scared:** no one else knows what they are doing either. Be confident, willing to learn, and always ask and listen to feedback.
-3) **Go with friends:** the hackathon experience can be much more fun if you go with a group of people you are comfortable with. That being said, it's perfectly fine to go by yourself and meet new people there.
+1) **Network**: While building a project is great, connecting with the companies, mentors, and other students is just as important. Be sure to allocate time for talking with representatives, and be prepared to show off yourself and your skill set. Attend as many networking events, hackathons and workshops to meet a wide variety of people from a wide variety of commpanies, tech and non-tech alike.
+2) **Don't be scared**: No one else knows what they are doing either. Be confident, willing to learn, and always ask and listen to feedback.
+3) **Go with friends**: The hackathon experience can be much more fun if you go with a group of people you are comfortable with. That being said, it's perfectly fine to go by yourself and meet new people there.
