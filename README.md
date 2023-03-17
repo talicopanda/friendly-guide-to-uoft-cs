@@ -49,6 +49,10 @@ There is a huge variety of clubs at UofT realted to computer science, and a lot 
 
 Note that the great majority of these clubs are fully student-run and there are many ways of getting involved, so don't hesitate to reach out and get in touch with them.
 
+### Student Society
+- [Computer Science Student Union (CSSU)](https://www.cssu.ca)
+The CSSU represents Computer Science students who are either taking a Computer Science course or are part of a Computer Science POSt at the University of Toronto St. George campus. The primary goal for the CSSU team is to improve the academic, social, and professional lives of computer science students. 
+
 ### Software Development
 - [Google Developer Student Club (GDSC)](https://gdsc.community.dev/university-of-toronto-st-george-campus/)
 - [University of Toronto App Development Association (UTADA)](https://sop.utoronto.ca/group/application-development-association/)
