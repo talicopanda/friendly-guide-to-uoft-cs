@@ -3,7 +3,8 @@
 ## Table of Contents
 - [Introduction](#introduction)
 - [Courses](#courses)
-- [Extra-curricular activities](#extra-curricular-activities)
+- [Extra-curriculars](#extra-curriculars)
+- [Hackathons](#hackathons)
 
 ## Introduction
 
@@ -38,12 +39,19 @@ Some of these may be useful and interesting:
   - [CSC301: Introduction to Software Engineering](https://artsci.calendar.utoronto.ca/course/csc301h1): You get to experience what it's like to build an end-to-end product for a real client, on top of learning how to manage a team, manage the scope of the project, communicate with a possibly non-technical client, and manage expecations and deadlines. A must-take for anyone going into software development.
   - [CSC454: The Business of Software](https://artsci.calendar.utoronto.ca/course/csc301h1): You get the opportunity to learn the ins and outs of starting a new software business. Form a group of 6 students, some of whom are also enrolled in CSC491 (the development sister course) and experience what it's like to create a start up from ideation to implementation. You get to learn and experience how to perform market analyses, create customer personas and profiles and create financial modeling and projections. Learn more [here](https://dcsil.ca/csc454).
   - [CSC324: Principles of Programming Languages](https://artsci.calendar.utoronto.ca/course/csc301h1): This is a fun course to take to learn more about functional programming. It introduces you to a new way of programming and you get to play around with some interesting languages that you may not otherwise be exposed to.
+  - [CSC384: Introduction to Artificial Intelligence](https://artsci.calendar.utoronto.ca/course/csc384h1): This course gives a good introduction to most prominent topics in Artificial Intelligence. It is a great way to dip your toes and check your interest in the field of AI.
+  - [CSC494: Computer Science Project](https://artsci.calendar.utoronto.ca/course/csc494h1): This course involves working closely with a professor to do self-directed research. You get to pick a project out of a list of projects that professors are interested in, and each lecture involves reporting your findings to your professor. Topics can range from educational embedded systems projects to social network user engagement analysis.
+  - [CSC303: Social and Information Networks](https://artsci.calendar.utoronto.ca/course/csc303h1): This course is just overall really fun. It touches a lot of interesting topics that are very applicable to real world applications.
+  - [CSC304: Algorithmic Game Theory and Mechanism Design](https://artsci.calendar.utoronto.ca/course/csc304h1): A unique and fun theoretical course that mixes Computer Science with common economics topics such as Prisoners' Dilemma, Pareto Optimality, and voting problems. Even if you aren't interested in economics, the material is quite digestible and tests your problem-solving skills.
+
+- **Math Courses**:
+  - [Linear Algebra I](https://artsci.calendar.utoronto.ca/course/mat223h1) & [Linear Algebra II](https://artsci.calendar.utoronto.ca/course/mat224h1): Lin. Alg. is very widely employed in most areas of CS and you will probably feel the need to know about it at some point.
 - **Engineering Courses**: As a CS/FAS student, you may also take some Engineering courses (check with your registrar for any restrictions). You may also have engineering courses count towards your CS degree, just make sure you notify/ask [Computer Science Undergrad](mailto:cs.undergrad@utoronto.ca). Refer to the [Engineering Calendar](https://undergrad.engineering.utoronto.ca/academics-registration/academic-calendar/) for a list of all possible courses. Here are a few notable courses for CS (check the engineering calendar for an accurate description):
   - ECE568: Cyber Security
   - ECE419: Distributed Systems
   - ECE344: Operating Systems
 
-## Extra-curricular Clubs
+## Extra-curriculars
 
 Extra-curriculars can go a long way towards giving you something similar to work experience, leadership skills and abilities to work with people in a group. It is seen very highly by most companies since it shows that the student is engaged and proactive in their field or community.
 
@@ -52,37 +60,50 @@ There is a huge variety of clubs at UofT related to computer science, and a lot 
 Note that the great majority of these clubs are fully student-run and there are many ways of getting involved, so don't hesitate to reach out and get in touch with them.
 
 ### Student Society
-- [Computer Science Student Union (CSSU)](https://www.cssu.ca)
-
+- [Computer Science Student Union (CSSU)](https://www.cssu.ca) \
 The CSSU represents Computer Science students who are either taking a Computer Science course or are part of a Computer Science Program of Study at the University of Toronto St. George campus. The primary goal for the CSSU team is to improve the academic, social, and professional lives of computer science students. 
 
 ### Software Development
-- [Google Developer Student Club (GDSC)](https://gdsc.community.dev/university-of-toronto-st-george-campus/)
-- [University of Toronto App Development Association (UTADA)](https://sop.utoronto.ca/group/application-development-association/)
-- [University of Toronto Web Development (UTWD)](https://github.com/uoftweb)
+- [Google Developer Student Club (GDSC)](https://gdsc.community.dev/university-of-toronto-st-george-campus/) \
+The Google Developer Student Club (GDSC) - University of Toronto powered by Google Developers is a student-led group that aims to inspire students in the field of technology. Its community is open to any student in any discipline wishing to advance their skills in developer technology and no prior developer experience is required to be a part.
+- [University of Toronto App Development Association (UTADA)](https://sop.utoronto.ca/group/application-development-association/) \
+ADA is an organization dedicated to enriching the programmer community of UofT. They are obsessed with the new types of information technologies. The main focus of the organization is to help young programmers to implement their awesome ideas into real products. Meanwhile, they provide them with opportunities for learning new developing skills by holding up workshops.
+- [University of Toronto Web Development (UTWD)](https://www.uoftweb.dev/)
 
 ### Computer Graphics
-- [University of Toronto Computer Graphics (UTCG)](https://github.com/UTCG)
+- [University of Toronto Computer Graphics (UTCG)](https://utcg.club/) \
+The University of Toronto Computer Graphics Club has a mission to create a supportive learning community that provides graphics-related workshops, research talks, field trips and social events for people who are interested in any part of computer graphics.
 
 ### Neuroscience and Brain-Computer Interaction
-- [NeuroTechUofT](https://github.com/neurotechuoft)
+- [NeuroTechUofT](https://neurotechuoft.com/) \
+Driving undergraduate neurotechnology and BCI research and innovation in the University of Toronto
 
 ### Machine Learning / Artificial Intelligence
-- [UofTAI](https://www.uoft.ai/)
-- [University of Toronto Machine Intelligence Student Team (UTMIST)](https://github.com/UTMIST)
-- [aUToronto: The University of Toronto Self-Driving Car Team](https://www.autodrive.utoronto.ca/)
+- [UofTAI](https://www.uoft.ai/) \
+Through a variety of initiatives, including educational programs, competitions, guest lectures, and conferences, we help UofT students get involved in the growing field of Artificial Intelligence. Our club’s activities introduce our members to an assortment of topics within the field, familiarise them with cutting-edge research, and connect them with a range of career opportunities available in today’s workforce.
+
+- [University of Toronto Machine Intelligence Student Team (UTMIST)](https://utmist.gitlab.io/) \
+The University of Toronto Machine Intelligence Student Team (UTMIST) is a student organization devoted to promoting a vibrant machine learning community on campus and connecting students with graduate students, professors and industries in the field of machine intelligence, to clear the MIST around machine intelligence for the eager young minds.
+- [aUToronto: The University of Toronto Self-Driving Car Team](https://www.autodrive.utoronto.ca/) \
+Autonomous vehicles are on the cusp of revolutionizing the way our world travels. aUToronto is at the forefront of this new wave as the University of Toronto’s self-driving car team.
 
 ### Cybersecurity
-- [UofTCTF: The University of Toronto's Capture the Flag Team](https://github.com/UofTCTF)
+- [UofTCTF: The University of Toronto's Capture the Flag Team](https://github.com/UofTCTF) \
+The University of Toronto's Capture the Flag team (UofTCTF) is a group of students who are interested in information security and computer security.
 
 ### Social Good
-- [UofT Blueprint](https://github.com/uoftblueprint)
- 
+- [UofT Blueprint](https://github.com/uoftblueprint) \
+Stationed at the University of Toronto, Blueprint is a group of dedicated students passionate about building software for social good completely pro-bono.
+- [Engineers Without Borders](https://www.uoft.ewb.ca/) \
+EWB is a tight-knit community looking for leaders who ask tough questions, strive for continuous growth and share a common interest in social change.
+
 ### Game Development
-- [Game Design and Development Club (GDDC)](http://www.utgddc.com/)
+- [Game Design and Development Club (GDDC)](http://www.utgddc.com/) \
+The Game Design and Development Club is dedicated to helping students interested in anything related to game design and development such as: programming, sound, music, business, and art.
 
 ### Quantum Computing
-- [UofT Quantum Computing Club (UTQCC)](https://www.uoftquantum.ca/)
+- [UofT Quantum Computing Club (UTQCC)](https://www.uoftquantum.ca/) \
+The University of Toronto Quantum Computing Group serves to bring together the UofT Quantum Computing community, as well as to introduce Quantum Computing to all those who are interested. As a rich resource hub and a professional development group, we provide seminars, talks, and crash courses, making cutting edge-research in academia accessible to the undergraduate community.
 
 ### Robotics 
 - [UofT Robotics Association (UTRA)](https://www.utra.ca) \
@@ -123,11 +144,14 @@ Will be completed by Jenny. Also welcome anyone to add in.
 Hackathons are a great opportunity to 1) Network with companies and peers, 2) build a project for your resume and sharpen your technical skills, and 3) have some fun (hopefully). If you do well, you have the chance to win prizes, ranging from cash winnings to company interviews.
 
 ### Where to Find
-- [MLH (Major League Hacking)](https://mlh.io/). MLH runs hackathons throughout the year, many of which require no prior experience. A notable MLH event is *Hack the North*, which is both run at UofT and is also the largest hackathon in Canada.
-- [Devpost](https://devpost.com/hackathons). Devpost is a platform solely for finding hackathons, both virtual and in person. 
-- Company-Specific. Numerous companies host hackathons to attract talent. If you are interested in working somewhere, be to sure to check if they either host or sponser a hackathon, as performing well in said event can help land interviews.
+- [MLH (Major League Hacking)](https://mlh.io/) \
+MLH runs hackathons throughout the year, many of which require no prior experience. A notable MLH event is *Hack the North*, which is both run at UofT and is also the largest hackathon in Canada.
+- [Devpost](https://devpost.com/hackathons) \
+Devpost is a platform solely for finding hackathons, both virtual and in person. 
+- Company-Specific \
+Numerous companies host hackathons to attract talent. If you are interested in working somewhere, be to sure to check if they either host or sponser a hackathon, as performing well in said event can help land interviews.
 
 ### Tips
-1) Network: while building a project is great, connecting with the companies, mentors, and other students is just as important. Be sure to allocate time for talking with representatives, and be prepared to show off yourself and your skill set. Attend as many networking events, hackathons and workshops to meet a wide variety of people from a wide variety of commpanies, tech and non-tech alike.
-2) Don't be scared: no one else knows what they are doing either. Be confident, willing to learn, and always ask and listen to feedback.
-3) Try to go with friends: the hackathon experience can be much more fun if you go with a group of people you are comfortable with. That being said, it's perfectly fine to go by yourself and meet new people there.
+1) **Network**: While building a project is great, connecting with the companies, mentors, and other students is just as important. Be sure to allocate time for talking with representatives, and be prepared to show off yourself and your skill set. Attend as many networking events, hackathons and workshops to meet a wide variety of people from a wide variety of commpanies, tech and non-tech alike.
+2) **Don't be scared**: No one else knows what they are doing either. Be confident, willing to learn, and always ask and listen to feedback.
+3) **Go with friends**: The hackathon experience can be much more fun if you go with a group of people you are comfortable with. That being said, it's perfectly fine to go by yourself and meet new people there.
