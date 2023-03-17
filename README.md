@@ -45,12 +45,13 @@ Some of these may be useful and interesting:
 
 Extra-curriculars can go a long way towards giving you something similar to work experience, leadership skills and abilities to work with people in a group. It is seen very highly by most companies since it shows that the student is engaged and proactive in their field or community.
 
-There is a huge variety of clubs at UofT realted to computer science, and a lot of people find deciding which ones to join difficult. Here, you will find a list of all the major clubs offered at UofT, separated by field of interest, with each club linking a repository with detailed information such as their website, what they do, how to join, current projects, resources, and why you should join!
+There is a huge variety of clubs at UofT related to computer science, and a lot of people find deciding which ones to join difficult. Here, you will find a list of all the major clubs offered at UofT, separated by field of interest, with each club linking a repository/website with detailed information such as what they do, how to join, current projects, resources, and why you should join!
 
 Note that the great majority of these clubs are fully student-run and there are many ways of getting involved, so don't hesitate to reach out and get in touch with them.
 
 ### Student Society
 - [Computer Science Student Union (CSSU)](https://www.cssu.ca)
+
 The CSSU represents Computer Science students who are either taking a Computer Science course or are part of a Computer Science POSt at the University of Toronto St. George campus. The primary goal for the CSSU team is to improve the academic, social, and professional lives of computer science students. 
 
 ### Software Development
