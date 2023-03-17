@@ -77,7 +77,39 @@ Note that the great majority of these clubs are fully student-run and there are 
 ### Quantum Computing
 - [UofT Quantum Computing Club (UTQCC)](https://www.uoftquantum.ca/)
 
-### Robotics and Engineering
+### Robotics 
+- [UofT Robotics Association (UTRA)](https://www.utra.ca) \
+At UTRA, students design and build robots to compete in international competitions like RoboGames and the Intelligent Ground Vehicle Competition. There are 5 different subteams that work independently including [Robosoccer](https://utra-robosoccer.github.io/soccerbot/) and [Autonomous Rover](https://github.com/UTRA-ART).
+- [UofT Self-Driving Car Team (aUToronto)](https://www.autodrive.utoronto.ca) \
+aUToronto is one of the 8 teams competing in the SAE/GM AutoDrive Challenge. The teams designs and builds a fully functional level 4 autonomous vehicle. 
+- [UofT Formula Racing Team (UTFR)](https://fsaeutoronto.ca) \
+The University of Toronto Formula Racing team is a design team that designs and builds a small open wheel race car every year to compete in international Formula SAE/Student competitions.
+- [UofT Blue Sky Solar Racing Team](https://www.blueskysolar.org) \
+The team has designed, built and raced solar powered vehicles for over 25 years. In October 2019, the team successfully raced in the 2019 World Solar Challenge. 
+- [Interplanetary Space Exploration Team (ISET)](https://iset.skule.ca) \
+Provide students a platform to take part in space colonization through engineering real-life solutions and systems. 
+- [Robotics for Space Exploration (RSX)](https://rsx.squarespace.com) \
+RSX designs, builds, and competes with Mars Rovers in international competitions, such as the University Rover Challenge, European Rover Challenge, and Canadian International Rover Challenge. 
+- [UofT Aerospace Team (UTAT)](https://www.utat.ca) \
+UTAT is an interdisciplinary university design team that designs and builds drones, rockets, satellites, and promotes aerospace sustainability through policy and law.
+- [UofT Hyperloop Team](https://www.utht.ca) \
+Hyperloop is an ultra high-speed mode of sustainable transportation. The team aims to build a sustainable and reliable inter-city networks of high-speed transportation. 
+
+### Engineering 
+- [UofT Engineering Society (Skule)](https://skule.ca) \
+Skule is the student body at the University of Toronto's Faculty of Applied Science and Engineering, providing services, funding and extracurricular opportunities to the members. 
+- [IEEE UofT Branch](https://ieee.utoronto.ca) \
+IEEE is one of the most influential organizations dedicated to advancing technology for the benefit of humanity. 
+- [Club for Undergraduate Biomedical Engineering (CUBE)](https://cube.skule.ca) \
+The club aims to connect undergraduate students with researchers, industry and other students. 
+- [UofT Chapter of Engineers Without Borders (EWB)](https://www.uoft.ewb.ca) \
+EWB UofT catalyzes changes that address the root causes of poverty and inequity by investing in people and ideas.
+- [UofT Ethical Principles in AI Team (EPAI)](https://ethical-principles-in-ai.github.io) \
+EPAI is committed to educating and taking action on ethical concerns within artificial intelligence and data science.
+- [UofT Biomedical Engineering Design Team (UT BIOME)](https://www.instagram.com/uoftbiome/?hl=en) 
+
+### Tips for navigating extra-curriculars
+Will be completed by Jenny. Also welcome anyone to add in. 
 
 ## Hackathons
 
