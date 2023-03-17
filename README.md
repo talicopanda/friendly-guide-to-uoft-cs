@@ -52,7 +52,7 @@ Note that the great majority of these clubs are fully student-run and there are 
 ### Student Society
 - [Computer Science Student Union (CSSU)](https://www.cssu.ca)
 
-The CSSU represents Computer Science students who are either taking a Computer Science course or are part of a Computer Science POSt at the University of Toronto St. George campus. The primary goal for the CSSU team is to improve the academic, social, and professional lives of computer science students. 
+The CSSU represents Computer Science students who are either taking a Computer Science course or are part of a Computer Science Program of Study at the University of Toronto St. George campus. The primary goal for the CSSU team is to improve the academic, social, and professional lives of computer science students. 
 
 ### Software Development
 - [Google Developer Student Club (GDSC)](https://gdsc.community.dev/university-of-toronto-st-george-campus/)
